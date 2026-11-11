@@ -2,7 +2,7 @@
 
 1. Склонируйте репозиторий:
    ```bash
-   git clone https://github.com/<ваш_логин>/<имя_репозитория>.git
+   git clone https://github.com/purstudent/Attendance.git
 2. Откройте проект в Android Studio (File -> Open... -> выберите папку проекта).
 3. Дождитесь автоматической синхронизации Gradle и загрузки зависимостей.
 4. Подключите Android-смартфон по USB (с включенной «Отладкой по USB») либо запустите виртуальный эмулятор Android.
